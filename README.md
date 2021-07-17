@@ -8,5 +8,5 @@
 * 💡 I complemented my background with Data Analytics and Data Science studies.
 * 📈 Currently working as an analyst of planing and control, at EDELAP (energy industry).
 * 📫 If you want to contact me: juanbsirai664@gmail.com
-* 💻 Here my LinkedIn profile: www.linkedin.com/in/juan-sirai
+* 💻 Here is my LinkedIn profile: www.linkedin.com/in/juan-sirai
 -----------------------
