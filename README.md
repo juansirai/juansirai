@@ -6,7 +6,7 @@
 
 * 🎓I have a degree in Bussiness, and I am studying IT. Yes, I love learning!
 * 💡 I complemented my background with Data Analytics and Data Science studies.
-* 📈 Currently working as an analyst of planing and control, at EDELAP (energy industry).
+* 📈 Currently working as a Job Grading - Data Analytics Specialist at Cervecería y Maltería Quilmes.
 * 📫 If you want to contact me: juanbsirai664@gmail.com
 * 💻 Here is my LinkedIn profile: www.linkedin.com/in/juan-sirai
 -----------------------
