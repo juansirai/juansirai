@@ -21,7 +21,7 @@
 
 ------------------------
 ## 📈 GitHub Stats
-![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juansirai&theme=nord_bright) <br>
-![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juansirai&theme=nord_bright)
-![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juansirai&theme=nord_bright)
+![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juansirai&theme=nord_dark) <br>
+![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juansirai&theme=nord_dark&utcOffset=-3)
+![Juan GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juansirai&theme=nord_dark)
 
