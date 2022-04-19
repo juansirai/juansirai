@@ -18,6 +18,33 @@
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+## 💡 Some Projects
+
+<a href="https://github.com/juansirai/Energy-Consumption">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=Energy-Consumption&theme=dark" />
+</a>  
+
+<a href="https://github.com/juansirai/HR-Attrition">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=HR-Attrition&theme=dark" />
+</a>  
+
+<a href="https://github.com/juansirai/jump2digital">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=jump2digital&theme=dark" />
+</a> 
+
+## 💻 University
+
+<a href="https://github.com/juansirai/AyED">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=AyED&theme=dark" />
+</a>  
+
+<a href="https://github.com/juansirai/FOD-Practica">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=FOD-Practica&theme=dark" />
+</a>  
+
+<a href="https://github.com/juansirai/SeminarioPython">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=SeminarioPython&theme=dark" />
+</a>  
 
 ------------------------
 ## 📈 GitHub Stats
