@@ -2,9 +2,9 @@
 
 
 ## 🌍 Hello world!
-*My name is Juan, I'm 28 years old, and I live in La Plata, Buenos Aires (ARG)*
+*My name is Juan, I'm 29 years old, and I live in La Plata, Buenos Aires (ARG)*
 
-* 🎓I have a degree in Bussiness, and I am studying IT. Yes, I love learning!
+* 🎓I have a degree in Bussiness, and I am studying IT. What a nerd!
 * 💡 I complemented my background with Data Analytics and Data Science studies.
 * 📈 Currently working as a Job Grading - Data Analytics Specialist at Anheuser-Busch InBev 🍺.
 * 📫 If you want to contact me: juanbsirai664@gmail.com
