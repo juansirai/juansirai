@@ -7,8 +7,20 @@
 * 🎓I have a degree in Bussiness, and I am studying IT. What a nerd!
 * 💡 I complemented my background with Data Analytics and Data Science studies.
 * 📈 Currently working as a Job Grading - Data Analytics Specialist at Anheuser-Busch InBev 🍺.
-* 📫 If you want to contact me: juanbsirai664@gmail.com
-* 💻 Here is my LinkedIn profile: www.linkedin.com/in/juan-sirai
+
+Reach Me!
+
+<a href="">
+  <img src="https://cdn-icons.flaticon.com/png/512/1527/premium/1527096.png?token=exp=1651438432~hmac=1601fc563804903047208c17c7855401" width=50px>
+</a>
+<a href="https://www.linkedin.com/in/juan-sirai/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px>
+</a>
+<a href="mailto:juanbsirai664@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/893/893292.png" width=50px>
+</a>
+
+
 -----------------------
 
 ## 🔧 Tools
