@@ -6,7 +6,7 @@
 
 * 🎓I have a degree in Bussiness, and I am studying IT. What a nerd!
 * 💡 I complemented my background with Data Analytics and Data Science studies.
-* 📈 Currently working as a Job Grading - Data Analytics Specialist at Anheuser-Busch InBev 🍺.
+* 📈 Currently working as Data Analytics Specialist at Anheuser-Busch InBev 🍺.
 
 Reach Me!
 
