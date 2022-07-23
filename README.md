@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" width=1200 height =200>
+<img src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" width=800 height =200>
 
 
 ## 🌍 Hello world!
