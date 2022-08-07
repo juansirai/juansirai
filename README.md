@@ -4,7 +4,7 @@
 ## 🌍 Hello world!
 *My name is Juan, I'm 29 years old, and I live in La Plata, Buenos Aires (ARG)*
 
-* 🎓I have a degree in Bussiness, and I am studying IT. What a nerd!
+* 🎓I have a degree in Bussiness, and I am currently studying IT.
 * 💡 I complemented my background with Data Analytics and Data Science studies.
 * 📈 Currently working as Data Analytics Specialist at Anheuser-Busch InBev 🍺.
 
