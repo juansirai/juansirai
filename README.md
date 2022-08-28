@@ -10,9 +10,7 @@
 
 Reach Me!
 
-<a href="">
-  <img src="https://cdn-icons.flaticon.com/png/512/1527/premium/1527096.png?token=exp=1651438432~hmac=1601fc563804903047208c17c7855401" width=50px>
-</a>
+
 <a href="https://www.linkedin.com/in/juan-sirai/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px>
 </a>
@@ -56,6 +54,10 @@ Reach Me!
 
 <a href="https://github.com/juansirai/SeminarioPython">
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=SeminarioPython&theme=dark" />
+</a>  
+
+<a href="https://github.com/juansirai/OO1">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=OO1&theme=dark" />
 </a>  
 
 ------------------------
