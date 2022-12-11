@@ -1,8 +1,8 @@
-<img src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" width=800 height =200>
+<img src="https://www.idp.com/medias/data-sciemces-banner.jpg?context=bWFzdGVyfHJvb3R8MTc5MTI1fGltYWdlL2pwZWd8aGQ1L2hhOS85OTA3ODgwMTk4MTc0LmpwZ3xlNmVhZTVmMTE1ZmZhMWI0Y2FkNGUxMzRjOTdiMzQzNWQ5YmExMzI4YTFhNWMyYzRkYzc3YWU5MTNjNmU4ZTRk" >
 
 
 ## 🌍 Hello world!
-*My name is Juan, I'm 29 years old, and I live in La Plata, Buenos Aires (ARG)*
+*My name is Juan, I'm 30 years old, and I live in La Plata, Buenos Aires (ARG)*
 
 * 🎓I have a degree in Business, and I am currently studying IT.
 * 💡 I complemented my background with Data Analytics and Data Science studies.
