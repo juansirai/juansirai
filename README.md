@@ -44,6 +44,14 @@ Reach Me!
 
 ## 💻 University
 
+### Third Year
+
+<a href="https://github.com/juansirai/POO2">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=POO2&theme=dark" />
+</a>
+
+### Second Year
+
 <a href="https://github.com/juansirai/AyED">
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=AyED&theme=dark" />
 </a>  
