@@ -17,7 +17,16 @@ Reach Me!
 <a href="mailto:juanbsirai664@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/893/893292.png" width=50px>
 </a>
+<a href="https://www.instagram.com/juansirai">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=50px>
+</a>
 
+
+-----------------------
+# 🤓 Stats
+
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansirai&hide_progress=false&theme=dark" alt="juansirai :: Top Lenguajes" />
+<img src="https://github-readme-stats.vercel.app/api?username=juansirai&show_icons=true&theme=dark" alt="juansirai :: Profile Stats" /></p>
 
 -----------------------
 
@@ -68,8 +77,5 @@ Reach Me!
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=OO1&theme=dark" />
 </a>  
 
-------------------------
-## 📈 GitHub Stats
-![Juan GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juansirai&theme=radical&utcOffset=-3)
-![Juan GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juansirai&theme=radical)
+
 
