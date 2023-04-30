@@ -21,13 +21,6 @@ Reach Me!
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=50px>
 </a>
 
-
------------------------
-# 🤓 Stats
-
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansirai&hide_progress=false&theme=dark" alt="juansirai :: Top Lenguajes" />
-<img src="https://github-readme-stats.vercel.app/api?username=juansirai&show_icons=true&theme=dark" alt="juansirai :: Profile Stats" /></p>
-
 -----------------------
 
 ## 🔧 Tools
