@@ -20,6 +20,9 @@ Reach Me!
 <a href="https://www.instagram.com/juansirai">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=50px>
 </a>
+<a href="https://www.novypro.com/profile_projects/juansirai">
+    <img src = "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmvp0001.cdn.bubble.io%2Ff1660814096909x502745365069615900%2FnovyPro%2520Logo%2520a%2520PowerBI%2520portfolio%2520builder.png?w=&h=&auto=compress&dpr=1&fit=max" width=50px>
+</a>
 
 -----------------------
 
