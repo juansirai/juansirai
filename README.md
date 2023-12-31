@@ -39,6 +39,10 @@ Reach Me!
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=Energy-Consumption&theme=dark" />
 </a>  
 
+<a href="https://github.com/juansirai/ds_challanges">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=ds_challanges&theme=dark" />
+</a>  
+
 <a href="https://github.com/juansirai/HR-Attrition">
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=juansirai&repo=HR-Attrition&theme=dark" />
 </a>  
